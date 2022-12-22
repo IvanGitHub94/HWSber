@@ -1,3 +1,5 @@
+package HW1_1;
+
 import java.util.Scanner;
 
 public class Hw01Task01 {
